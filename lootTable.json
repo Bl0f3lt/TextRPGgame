@@ -1,0 +1,43 @@
+{
+    "loot": [
+      {
+        "iid": 0,
+        "name": "",
+        "stats": [
+          {
+            "attack": 0,
+            "defence": 0,
+            "heal": 0,
+            "specialeffect": false,
+            "movement": [
+              {
+                "moveTF": false,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "iid": 1,
+        "name": "",
+        "stats": [
+          {
+            "attack": 0,
+            "defence": 0,
+            "heal": 0,
+            "movement": [
+              {
+                "moveTF": false,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
