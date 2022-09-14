@@ -5,6 +5,7 @@
         "name": "Apple",
         "rarity": 2,
         "description": "Freshly picked apple, restores 10 energy",
+        "type": "food",
         "stats": [
           {
             "attack": 0,
@@ -28,6 +29,7 @@
         "name": "Doritos",
         "rarity": 9,
         "description": "A tangy, salty crisp, gives a quick boost, increasing energy by 20",
+        "type": "food",
         "stats": [
           {
             "attack": 0,
@@ -51,6 +53,7 @@
         "name": "Jam Sandwich",
         "rarity": 30,
         "description": "Slimy red fruit, spreaded on two peices of fresh white bread. Delicious. Energy +35",
+        "type": "food",
         "stats": [
           {
             "attack": 0,
@@ -74,6 +77,7 @@
         "name": "Bakers iced buns",
         "rarity": 48,
         "description": "liquidised sugar piped over a soft bun, freshly baked the same day by the local baker. Energy +50",
+        "type": "food",
         "stats": [
           {
             "attack": 0,
@@ -97,6 +101,7 @@
         "name": "Magic Big Mac with extra cheese",
         "rarity": 69,
         "description": "A typical big mac, with extra cheese, enhanced my mystical forces bestowing unexpected energy gains. Energy +64",
+        "type": "food",
         "stats": [
           {
             "attack": 0,
@@ -119,7 +124,8 @@
         "iid": 5,
         "name": "Mums Pasta",
         "rarity": 80,
-        "description": "Mums homemade pasta, with the best sauce around and delicious pasta, easily fills the emptyiest of stomachs. Energy +90",
+        "description": "Mum's homemade pasta, with the best sauce around and delicious pasta, easily fills the emptyiest of stomachs. Energy +90",
+        "type": "food",
         "stats": [
           {
             "attack": 0,
